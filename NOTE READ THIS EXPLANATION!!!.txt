@@ -1,0 +1,6 @@
+Hello I have accomplished the task in python idle instead of
+jupyter notebook as i got issues with it.so I have created a 
+story as .csv file from which i read the words and had made the
+required tasks.
+NOTE: I have attached proofofexecution of the program as png image!!!
+Thank you so much
