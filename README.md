@@ -1,3 +1,3 @@
 # python-development
 wordcloud development
-(output.png)
+![GitHub Logo](output.png)
